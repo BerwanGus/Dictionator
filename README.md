@@ -5,4 +5,4 @@ Bibliotecas:
 tkinter,
 PyDictionary
 
-# Feito por Gustavo, finalizado em 28/02/2021.
+Feito por Gustavo, finalizado em 28/02/2021.
